@@ -1,0 +1,59 @@
+,0080121001   LOAD TAPE
+,0600671001
+,0740781060
+L0195011060/332                                            A007080M080007B001007
+L0195051060/                                               A007080M080007B001007
+L0195061060,201299                                         A007080M080007B001007
+L0195131060L606230                                         A007080M080007B001007
+L01952010602                                               A007080M080007B001007
+L0195211060U%U1R                                           A007080M080007B001007
+L0195261060/080                                            A007080M080007B001007
+L01953010601                                               A007080M080007B001007
+L0195311060B582001X                                        A007080M080007B001007
+L0195391060M601035                                         A007080M080007B001007
+L0195461060,001035                                         A007080M080007B001007
+L0195531060/299                                            A007080M080007B001007
+L0195571060L034250                                         A007080M080007B001007
+L01956410602                                               A007080M080007B001007
+L0195651060M%U1001W                                        A007080M080007B001007
+L0195731060B582A                                           A007080M080007B001007
+L0195781060B530                                            A007080M080007B001007
+L0195821060U%U1M                                           A007080M080007B001007
+L0195871060/299                                            A007080M080007B001007
+L0195911060L609230                                         A007080M080007B001007
+L01959810602                                               A007080M080007B001007
+L0195991060U%U1R                                           A007080M080007B001007
+L0196041060.                                               A007080M080007B001007
+L0196051060.                                               A007080M080007B001007
+L0016011060g                                               A004080M080004B001011
+L0056061060START                                           A004080M080004B001011
+L0036091060END                                             A004080M080004B001011
+STOP AND JUMP TO PROG START                                B501                 
+100001ROLFFSON    MICHAEL S.      
+100305JOHNSON     REYNOLD         
+101401BRANSCOMB   CHUCK           
+101443MOLL        CLAUDIA         
+101446MORENO      FRIEDA          
+101596HASE        ALENA           
+101597STILLER     FRED            
+101598SISKINS     HERBERT         
+101599LAUSE       GUENTHER        
+101613VOLLMER     HENRY           
+101614MERTENS     NATHALIE        
+101615WALFANG     FRITZ           
+101780GRAF        CHRISTIAN       
+101781BAUER       TOBIAS          
+101783SCHENKER    MARVIN          
+101784POLLER      GUIDO           
+101790ZACHARIAS   DENISE          
+102001BOWMAN      DAVID           
+102133BAER        HARALD          
+102134LIEFERS     DIETMAR         
+102156PRAHL       FRIEDERIKE      
+102234GEORGE      JAN             
+102425BEHREND     AXEL            
+102255RIEWA       LINDA           
+103743HOFER       JUDITH          
+104485HASANI      JASPER          
+104894SCHULZ      CHANTAL         
+X
